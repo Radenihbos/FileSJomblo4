@@ -22,11 +22,6 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 #### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
 
-**Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
-<a href="https://youtu.be/O2tieQgzYZg">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
-
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/Radenihbos/FileSJomblo
@@ -73,7 +68,6 @@ bash start
 * `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/mrismanaziz/File-Sharing-Man/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Masukan True untuk Nonaktifkan Tombol Berbagi Saluran, Default jika False
 
-### Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
 
 * `{first}` - User first name
@@ -99,8 +93,6 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana..
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Thanks To [mrismanaziz](https://github.com/mrismanaziz/File-Sharing-Man/tree/master)
 
-
 ##
-
    **Berikan Bintang Repo ini jika Anda menyukainya ⭐⭐⭐⭐⭐**
 
