@@ -1,4 +1,4 @@
-# FSharingJomblo
+# FileSJomblo
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
@@ -89,7 +89,7 @@ bash start
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/SharingUserbot) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Lunatic0de) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/jomblosuport) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/jombloproject) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
