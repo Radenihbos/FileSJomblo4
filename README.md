@@ -29,8 +29,8 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/Radenihbos/FSharingJomblo
-cd FSharingJomblo
+git clone https://github.com/Radenihbos/FileSJomblo
+cd FileSJomblo
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
