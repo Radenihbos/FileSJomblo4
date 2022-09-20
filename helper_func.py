@@ -1,6 +1,6 @@
 # (©)Codexbotz
 # (©)Mrismanaziz
-# Recode by @Radenihboss
+# by @Radenihboss
 # t.me/Jomblosuport & t.me/Jombloproject
 
 import asyncio
