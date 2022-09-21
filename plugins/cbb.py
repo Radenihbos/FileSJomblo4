@@ -1,6 +1,7 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# (©)Mrismanaziz
+# by @Radenihboss
+# t.me/Jomblosuport & t.me/Jombloproject
 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
 
