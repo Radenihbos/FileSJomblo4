@@ -1,4 +1,4 @@
-# FileSJomblo
+# FileSJomblo2
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
@@ -24,8 +24,8 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/Radenihbos/FileSJomblo
-cd FileSJomblo
+git clone https://github.com/Radenihbos/FileSJomblo2
+cd FileSJomblo2
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
